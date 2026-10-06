@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # SOFT Python Learning - Assignment & Tasks
 
-**Student:** [Your Name]  
-**Register No:** [Your Register No] | **Staff:** [Staff Name]  
+**Student:** DIYA STARMON  
+**Register No:** 26JSOFT102 | **Staff:** SATHISH KUMAR M
 **Department:** School of Future Technology, Jain University  
 
 ## Progress & Tasks
