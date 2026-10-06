@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SOFT Python Learning - Assignment & Tasks
 
 **Student:** [Your Name]  
@@ -23,3 +24,7 @@
 | **Assignment 13** | Leap Year Program | Done |
 | **Assignment 14** | Calculator Program | Done |
 | **Assignment 15** | Factorial Algorithm, Flowchart & Program | Done |
+=======
+# FS-2-PYTHON-QUESTIONS
+FS-2-QUESTION, Jain University | Staff: Sathish Kumar M
+>>>>>>> f4ef8fb28fac2924c7def3851c37ea86162adbc7
